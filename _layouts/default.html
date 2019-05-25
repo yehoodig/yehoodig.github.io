@@ -2,11 +2,35 @@
 title: James McConnel
 ---
 <!DOCTYPE html>
+<html>
 <head>
   <meta charset="utf-8">
+<style>
+   div.file {
+      border-width: medium;
+      border: solid black;
+      position: relative;
+      left: 150px;
+      width: 90%;
+   }
+   ul#navbar {
+      position: fixed;
+      top: 10px;
+      left: 10px;
+   }
+         
+</style>
   <title>{{ page.title }}</title>
 </head>
 <body>
+  <ul id="navbar">
+    {% for p in site.pages %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endfor %}
+    </ul>
+  <div class="file">
    {{ content }}
+   </div
+
 </body>
 </html>

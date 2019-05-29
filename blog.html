@@ -1,0 +1,14 @@
+---
+layout: posts
+title: My Jekyll Blog
+---
+<p>Welcome to my blog.  Hear about things I want to talk about, and my travels.</p>
+
+<p>My latest post:</p>
+
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+
+{{ content }}
+
+

@@ -22,7 +22,13 @@
   <title>{{ page.title }}</title>
 </head>
 <body>
-  {% include default_navbar.html %}
+  <ul id="navbar">
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+      <li><a href="/blog.html">Blog Index</a></li>
+      <li><a href="/">Home</a></li>
+   </ul>
   <h1 align="center">{{ page.title }}</h1>
   <div class="file">
    {{ content }}

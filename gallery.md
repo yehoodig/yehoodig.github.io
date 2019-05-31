@@ -7,4 +7,4 @@ title: Pictures of my trip
 [depart-airport]: /assets/SeaTac.jpg
 {: height="150px" width="100px"}
 [![Picture of the Day][testpic] ][testpic]
-[![][depart-airport]][depart-airport ]
+[![random text][depart-airport] ][depart-airport ]

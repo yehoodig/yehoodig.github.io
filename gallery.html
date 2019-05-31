@@ -1,0 +1,18 @@
+---
+layout: posts
+title: Pictures of my trip
+---
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  <a href="{{ myimage.path }}"><img src="{{ myimage.path }}" style="height:150px;width:100"/></a>
+{% endfor %}
+<!---
+[testpic]: /assets/test.jpg
+{: height="150px" width="100px"}
+[depart-airport]: /assets/seatac.jpg
+{: height="150px" width="100px"}
+[myplane]: /assets/firstplane.jpg
+{: height="150px" width="100px"}
+
+
+[![Picture of the Day][testpic] ][testpic]  [![random text][depart-airport] ][depart-airport]  [![random text][myplane] ][myplane] ---!>

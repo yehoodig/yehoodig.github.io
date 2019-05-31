@@ -4,11 +4,12 @@ title: My Jekyll Blog
 ---
 <p>Welcome to my blog.  Hear about things I want to talk about, and my travels.</p>
 
-<p>My latest post:</p>
+<p>My latest post:</p><hr/>
 
 {% assign post = site.posts.first %}
 {% assign content = post.content %}
 
+<h2>{{ post.title }}</h2>
 {{ content }}
 
 

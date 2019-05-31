@@ -10,6 +10,4 @@ title: Pictures of my trip
 {: height="150px" width="100px"}
 
 
-[![Picture of the Day][testpic] ][testpic] [![random text][depart-airport] ][depart-airport]
-
-[![random text][myplane] ][myplane]
+[![Picture of the Day][testpic] ][testpic]  [![random text][depart-airport] ][depart-airport]  [![random text][myplane] ][myplane]

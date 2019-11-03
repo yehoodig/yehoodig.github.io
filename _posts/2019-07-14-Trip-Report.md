@@ -4,12 +4,12 @@ title: Trip to the UK
 ---
 
 Basic outline: I was not sure where I was going to go.  I only planned about 2-3 days ahead, at most.
-I landed at Heathrow in the early afternoon of May 31, and made my way to Greeniwich Park, in time to visit the Royal Observatory!
+I landed at Heathrow in the early afternoon of May 31, and made my way to Greenwich Park, in time to visit the Royal Observatory!
 I was particularly excited to view the clocks.  Also walked down to the Thames and saw the Cutty Sark, and had a very touristy helping of fish and chips for dinner.
 
-Next morning about 4 am (Sat Jun 1)I left for St. Pancras station to take the bullet train through the Chunnel to Paris (Gard-du-Nord).
+Next morning about 4 am (Sat Jun 1) I left for St. Pancras station to take the bullet train through the Chunnel to Paris (Gard-du-Nord).
 Lovely City!  Mostly shutdown for the nominal [riots](https://www.reuters.com/article/us-france-protests/turnout-at-frances-yellow-vest-protest-hits-fresh-low-idUSKCN1T23DX).  I did not see anything myself, so I do not know what the fuss was about.  The police were out in force though.
-Some delightful parks, and monuments.  I finally understand why people like it so much.  Although, I am still would not claim to be a Franco-phile.  Everyone seemed pretty nice to me, but I also did not eat at any cafes.
+Some delightful parks, and monuments.  I finally understand why people like it so much.  Although, I still would not claim to be a Franco-phile.  Everyone seemed pretty nice to me, but I also did not eat at any cafes.
 
 At noon, I took a nap under the gaze of the Eiffel Tower.
 
